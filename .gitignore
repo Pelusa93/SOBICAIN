@@ -1,7 +1,7 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
-mysql_data/
-mysql_data2/
-wp/
-.vagrant/
 /.vagrant/
+/wp/themes
+/wp/plugins/akismet/
+/wp/plugins/hello.php
+/wp/plugins/index.php
